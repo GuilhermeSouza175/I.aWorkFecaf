@@ -1,13 +1,13 @@
 # I.aWorkFecaf
 Trabalho para otimização de delivery
-#-Cálculo de Rotas Inteligente
+# -Cálculo de Rotas Inteligente
 
 Um projeto de **cálculo de rotas eficiente**, feito em **Python**, voltado para **motoboys, entregadores e sistemas de otimização logística**.
 
 O sistema é baseado em **OpenStreetMap (OSM)** e permite calcular trajetos entre múltiplos pontos com diferentes algoritmos, como **A\*** e **Dijkstra**, podendo ser usado tanto em **APIs** quanto em **aplicativos desktop**.
 
 
-Link do vídeo: https://youtu.be/l1pcKzt1a7s
+
 
 ---
 
